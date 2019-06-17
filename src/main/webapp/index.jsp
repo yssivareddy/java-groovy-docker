@@ -6,7 +6,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../../../favicon.ico">
 
-    <title>JAVA application</title>
+    <title>JAVA Docker Application</title>
 
     <!-- Bootstrap core CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"></link>
@@ -69,7 +69,7 @@
       </div>
       <div class="navbar navbar-dark bg-dark box-shadow" style=" background-color:#f2f2f2!important;">
         <div class="container d-flex justify-content-between">
-          <h2>Jenkins-Continuous Deployment Lab</h2
+          <h2>Jenkins-CICD Groovy Pipeline with Docker Lab</h2
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -141,7 +141,7 @@
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
 
-               <h2>Jenkins-Continuous Deployment Lab</h2>
+               <h2>Jenkins-CICD Groovy Pipeline with Docker Lab</h2>
 
 
                 <div class="card-body">
